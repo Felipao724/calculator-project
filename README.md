@@ -12,5 +12,3 @@ Y para correr el programa
 ```
 npm start
 ```
-
-# calculator-project
