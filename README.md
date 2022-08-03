@@ -1,6 +1,6 @@
-# Webpack Starter
+# Calculator Project
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto es una practica de vanilla js con webpack
 
 ## Notas:
 Recuerden reconstruir los modulos de node
@@ -8,9 +8,9 @@ Recuerden reconstruir los modulos de node
 npm install
 ```
 
-Y para construir el build, recuerden:
+Y para correr el programa
 ```
-npm run build
+npm start
 ```
 
 # calculator-project
